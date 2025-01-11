@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,O as l}from"./chunks/framework.07cac50c.js";const F=JSON.parse('{"title":"前端开发规范","description":"","frontmatter":{},"headers":[],"relativePath":"development-standard/front.md"}'),p={name:"development-standard/front.md"},o=l("",132),e=[o];function t(c,r,i,y,D,C){return n(),a("div",null,e)}const d=s(p,[["render",t]]);export{F as __pageData,d as default};
